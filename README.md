@@ -1,1 +1,2 @@
 # gbdata
+select * from temp
